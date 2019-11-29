@@ -1,8 +1,8 @@
-<h1 align="center">sushan-reactapp-flask</h1>
+<h1 align="center">Serving a react app with a flask server</h1>
 
 ## Project overview
 
-This project shows how to serve a simple react application with a flask server
+This project shows how to serve a simple react application created by `create-react-app` with a flask server.
 
 ## Getting Started
 
