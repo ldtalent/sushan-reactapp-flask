@@ -17,7 +17,7 @@ Ensure that you have the following tools available on your machine;
 - [node](https://nodejs.org/en/) A JavaScript runtime
 - A tool to create isolated Python environments preferably [Virtualenv](https://virtualenv.pypa.io/en/stable/)
 - [Pip](https://pypi.org/project/pip/) A tool for installing python packages
-- [create-react-ap](https://create-react-app.dev/) A supported way of creating single-page React applications
+- [create-react-app](https://create-react-app.dev/) A supported way of creating single-page React applications
 - [yarn](https://www.npmjs.com/package/yarn) A package manager for javascript
 
 ### Installing
@@ -59,8 +59,10 @@ yarn install
 You can start a local server by running
 
 ```bash
+cd flask-server
 python3 main.py
 ```
+visit http://127.0.0.1:5000/ to view your application.
 
 ## Built With
 
